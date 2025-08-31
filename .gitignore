@@ -9,6 +9,8 @@
 .history
 generate_entity_files.sh
 
+/node_modules
+
 
 
 # Flutter repo-specific
